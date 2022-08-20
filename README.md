@@ -26,13 +26,7 @@ Here are some ideas to get you started:
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Roque&theme=highcontrast">
  </div>
- <h2>🏆 GitHub Trophies        
-  <img align="center" alt="Edu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/32/64/7c/32647cdb24f0500273b2adb57556e973.jpg">
- </h2>
+ <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
 <div style="display: inline_block"><br>
 
