@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   <img align="center" alt="Eduardo-Roque-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Eduardo-Roque-JAVA" src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=JAVA&logoColor=black">
 </div>
-![Snake animation](https://github.com/Eduardo-Roque/Eduardo-Ropque/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/Eduardo-Roque/Eduardo-Roque/blob/output/github-contribution-grid-snake.gif">
