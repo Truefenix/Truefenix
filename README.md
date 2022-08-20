@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 -->
 <img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
 <div align="center">
+ <a href = "mailto:eduardo.roqueamaral09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div align="center">
   <a href="https://github.com/Eduardo-Roque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 </div>
   <div align="center">
@@ -31,8 +35,6 @@ Here are some ideas to get you started:
 </div>
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
-
-##
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Eduardo-Roque-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
