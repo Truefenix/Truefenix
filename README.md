@@ -5,7 +5,7 @@
 <img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
 <div align="center">
 <h3 align="center">
- Olá, eu sou <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer">Eduardo Roque</a>
+ Olá, Bem Vindo ao meu <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer">Perfil</a>
 </h3>
  <a href = "mailto:eduardo.roqueamaral09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
