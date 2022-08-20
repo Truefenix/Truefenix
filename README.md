@@ -13,22 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
-<div align="center">
+<div>
  <a href = "mailto:eduardo.roqueamaral09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">
   <a href="https://github.com/Eduardo-Roque">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  <h2>🏆 GitHub Trophies
+</div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Roque&theme=highcontrast">
+ </div>
+ <h2>🏆 GitHub Trophies
   <img align="center" alt="Edu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/32/64/7c/32647cdb24f0500273b2adb57556e973.jpg">
-  </h2>
+ </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
 <div style="display: inline_block"><br>
 
