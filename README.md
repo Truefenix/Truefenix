@@ -21,6 +21,7 @@
  </div>
  <h2> 💼 Habilidades Técnicas </h2>
  <div style="display: inline_block"><br>
+ <br>
 
   <img align="center" alt="Eduardo-Roque-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Eduardo-Roque-css"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -28,7 +29,7 @@
   <img align="center" alt="Eduardo-Roque-JAVA" src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=JAVA&logoColor=black">
   <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/kRRJeEpqicHHFKWTvKtTcChw699W9Wn8LZvhAxhptps/https/i.pinimg.com/564x/28/f6/2e/28f62e1d6a2bde1e6ac0ae86b7d008df.jpg?width=559&height=559">
 </div>
-<br><br>
+<br>
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
 
