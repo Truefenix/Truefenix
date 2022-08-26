@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQErekZjjxPHOw/profile-displaybackgroundimage-shrink_350_1400/0/1659384443847?e=1666224000&v=beta&t=YxHQWptGTym84znFN8ES0VYSk1LKHxswib4ZmFfov-g" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQHdP7gBEzJw6A/profile-displaybackgroundimage-shrink_350_1400/0/1661556550298?e=1666828800&v=beta&t=xpj4LE-q8fTEeQvZ1xNjpmPGC8oIQ_4lq-c6NDsrwqo" alt="my banner"></a>
 </p>
 <img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
 <div align="center">
