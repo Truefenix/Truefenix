@@ -27,7 +27,7 @@
   <img align="center" alt="Eduardo-Roque-css"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Eduardo-Roque-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Eduardo-Roque-JAVA" src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=JAVA&logoColor=black">
-  <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/kRRJeEpqicHHFKWTvKtTcChw699W9Wn8LZvhAxhptps/https/i.pinimg.com/564x/28/f6/2e/28f62e1d6a2bde1e6ac0ae86b7d008df.jpg?width=559&height=559">
+  <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://camo.githubusercontent.com/1c09831c67da817c3c806ab00205c17222317f88866a926cb61ab979a73c1f84/68747470733a2f2f696d616765732d6578742d312e646973636f72646170702e6e65742f65787465726e616c2f6b52524a6545707169634848464b5754764b7454634368773639395739576e384c5a7668417868707470732f68747470732f692e70696e696d672e636f6d2f353634782f32382f66362f32652f32386636326531643661326264653165366163306165383662376430303864662e6a70673f77696474683d353539266865696768743d353539">
 </div>
 <br>
  <h2>🏆 GitHub Trophies</h2>
