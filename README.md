@@ -31,4 +31,5 @@
 <br>
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
+ 
 ![Snake animation](https://github.com/Eduardo-Roque/Eduardo-Roque/blob/output/github-contribution-grid-snake.svg)
