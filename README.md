@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img height="220em" src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/BANNER.gif"/>
+  <img height="280em" src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/BANNER.gif"/>
 </p>
 <img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
 <div align="center">
