@@ -1,8 +1,8 @@
-<h3 align="center">Hi there 👋</h3>
+### Hi there 👋
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/BANNER.gif" alt="my banner"></a>
 </p>
-<h3 align="center"><img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square"></h3>
+<img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
 <div align="center">
 <h3 align="center">
  Olá, Bem Vindo ao meu <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer">Perfil</a>
