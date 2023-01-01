@@ -27,7 +27,7 @@
   <img height="60em" align="center" alt="Eduardo-Roque-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="70em" align="center" alt="Eduardo-Roque-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height="70em" align="center" alt="Eduardo-Roque-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://camo.githubusercontent.com/1c09831c67da817c3c806ab00205c17222317f88866a926cb61ab979a73c1f84/68747470733a2f2f696d616765732d6578742d312e646973636f72646170702e6e65742f65787465726e616c2f6b52524a6545707169634848464b5754764b7454634368773639395739576e384c5a7668417868707470732f68747470732f692e70696e696d672e636f6d2f353634782f32382f66362f32652f32386636326531643661326264653165366163306165383662376430303864662e6a70673f77696474683d353539266865696768743d353539">
+  <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/.github/workflows/assets/Badge-Codificador-Alura.png">
 </div>
 <br>
  <h2>🏆 GitHub Trophies</h2>
