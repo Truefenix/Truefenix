@@ -32,6 +32,6 @@
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
  
-<h3 align="center">
-    <img src=".github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%">
-</h3>
+<p align="center">
+    <a href="https://github.com/Eduardo-Roque/ONE-Challenge01_Codificador" target="_blank"><img src=".github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%" /></a>
+</p>
