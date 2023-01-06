@@ -29,9 +29,10 @@
   <img height="70em" align="center" alt="Eduardo-Roque-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
- <h2>🏆 GitHub Trophies - 🛡️ Badges</h2>
+ <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
- 
+
+<h2>🛡️ Badges</h2>
 <div align="center">
     <a href="https://github.com/Eduardo-Roque/ONE-Challenge01_Codificador" target="_blank"><img src=".github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%" /></a>
 </div>
