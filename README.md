@@ -27,10 +27,11 @@
   <img height="60em" align="center" alt="Eduardo-Roque-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="70em" align="center" alt="Eduardo-Roque-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height="70em" align="center" alt="Eduardo-Roque-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Edu-pic" height="165" style="border-radius:50px;" src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/.github/workflows/assets/Badge-Codificador-Alura.png">
 </div>
 <br>
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
  
-![Snake animation](https://github.com/Eduardo-Roque/Eduardo-Roque/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">
+    <img src=".github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%">
+</h3>
