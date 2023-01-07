@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Eduardo-Roque/Eduardo-Roque/main/.github/workflows/assets/BANNER2.jpeg" alt="my banner"></a>
 </p>
-<img align="center" alt="Eduardo-Roque-msqlserver"  src="https://komarev.com/ghpvc/?username=Eduardo-Roque&style=flat-square">
+
 <div align="center">
 <h3 align="center">
  Olá, Bem Vindo ao meu <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank" rel="noreferrer">Perfil</a>
@@ -10,11 +10,13 @@
  <a href = "mailto:eduardo.roqueamaral09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <div align="center">
   <a href="https://github.com/Eduardo-Roque">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&theme=highcontrast"/>
 </div>
+  
 </div>
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Roque&theme=highcontrast">
@@ -28,6 +30,7 @@
   <img height="70em" align="center" alt="Eduardo-Roque-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img height="70em" align="center" alt="Eduardo-Roque-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
 <br>
  <h2>🏆 GitHub Trophies</h2>
  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
