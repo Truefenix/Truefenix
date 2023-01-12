@@ -34,7 +34,7 @@
 
 <br>
  <h2>🏆 GitHub Trophies</h2>
- <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=nord&column=7" >
+ <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Roque&theme=discord">
 <h2>🛡️ Badges</h2>
 
 <div align="center">
