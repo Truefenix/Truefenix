@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Eduardo-Roque">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo-Roque&show_icons=true&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo-Roque&layout=compact&theme=highcontrast"/>
 </div>
   
 </div>
