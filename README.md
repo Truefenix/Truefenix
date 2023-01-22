@@ -34,9 +34,7 @@
 
 <br>
  <h2>🏆 GitHub Trophies</h2>
- <a href="https://github.com/Truefenix/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Truefenix&column=8&theme=dark_lover&no-frame=true"/>
-</a>
+ <a><img width=800 src="https://github-profile-trophy.vercel.app/?username=Truefenix&column=8&theme=dark_lover&no-frame=true"/></a>
 <h2>🛡️ Badges</h2>
 
 <div align="center">
