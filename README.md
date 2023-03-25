@@ -40,6 +40,6 @@
 <div align="center">
     <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%" />
     </a>
-    <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" alt="Badge-Codificador" width="20%" />
+    <a href="https://github.com/Truefenix/ONE-conversor-moeda" target="_blank"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" alt="Badge-Codificador" width="20%" />
     </a>
 </div>
