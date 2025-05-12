@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://www.linkedin.com/in/Truefenix-79b23b214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/BANNER2.jpeg" alt="my banner"></a>
+  <a href="https://github.com/Truefenix/Truefenix/blob/main/.github/workflows/assets/bannerTruefenix.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/BANNER2.jpeg" alt="my banner"></a>
 </p>
 
 <div align="center">
