@@ -1,6 +1,8 @@
 ### Hi there 👋
 <p align="center">
-  <a href="https://github.com/Truefenix/Truefenix/blob/main/.github/workflows/assets/bannerTruefenix.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/BANNER2.jpeg" alt="my banner"></a>
+  <a href="https://github.com/Truefenix/Truefenix/blob/main/.github/workflows/assets/bannerTruefenix.png" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" alt="my banner" style="width:100%; height:250px; object-fit:cover;">
+  </a>
 </p>
 
 <div align="center">
