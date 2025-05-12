@@ -1,17 +1,10 @@
-### Hi there 👋
 <p align="center">
   <a href="https://github.com/Truefenix/Truefenix/blob/main/.github/workflows/assets/bannerTruefenix.png" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" alt="my banner" style="width:100%; height:250px; object-fit:cover;">
+    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" 
+         alt="my banner" 
+         style="width: 100%; object-fit: cover; object-position: center;">
   </a>
 </p>
-
-<div align="center">
-<h3 align="center">
- Olá, Bem Vindo ao meu <a href="https://www.linkedin.com/in/Truefenix-79b23b214/" target="_blank" rel="noreferrer">Perfil</a>
-</h3>
- <a href = "mailto:eduardo.roqueamaral09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- <a href="https://www.linkedin.com/in/eduardo-roque-79b23b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <div align="center">
   <a href="https://github.com/Truefenix">
