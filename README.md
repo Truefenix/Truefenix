@@ -41,6 +41,11 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
 - [pomodoro-react](https://github.com/Truefenix/pomodoro-react)  
   A productivity timer built with React, inspired by the Pomodoro Technique. Helps manage focus and break intervals during work or study sessions.
 
+#### Sua Agenda app
+
+- [projetoagenda](https://github.com/Truefenix/projetoagenda)  
+  A simple contact manager application with user authentication. Allows users to register, log in, and manage a contact list with names, phone numbers, and email addresses.
+
 ---
 
 ### 📊 GitHub Stats
