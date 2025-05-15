@@ -24,6 +24,22 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
   <img height="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+---
+
+### 🚀 Featured Projects
+
+#### Blog Platform
+
+- [blog-strapi (Back-End)](https://github.com/Truefenix/blog-strapi)  
+  A headless CMS API built with Strapi, following the JAMstack architecture. Provides structured content for the front-end via RESTful APIs.
+
+- [blog-next (Front-End)](https://github.com/Truefenix/blog-next)  
+  A blog front-end built with Next.js and styled-components. Utilizes Static Site Generation (SSG) for performance optimization and SEO-friendly pages.
+
+#### Pomodoro React App
+
+- [pomodoro-react](https://github.com/Truefenix/pomodoro-react)  
+  A productivity timer built with React, inspired by the Pomodoro Technique. Helps manage focus and break intervals during work or study sessions.
 
 ---
 
