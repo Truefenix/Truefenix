@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://github.com/Truefenix">
-    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" 
-         alt="Truefenix Banner"
-         style="width: 100%; max-width: 900px; object-fit: cover; object-position: center;">
+  <a href="https://github.com/Truefenix" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" 
+      alt="Truefenix Banner"
+      style="width: 100%; max-width: 900px; object-fit: cover; object-position: center;"
+    />
   </a>
 </p>
+
 
 <h2 align="center">Hello! 👋 I'm Truefenix</h2>
 
@@ -43,13 +46,24 @@
 ### 🏅 Badges & Certifications
 
 <div align="center">
-  <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank">
-    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/Badge-Codificador-Alura.png" alt="Alura Codificador Badge" width="180" />
+  <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/Badge-Codificador-Alura.png" 
+      alt="Alura Codificador Badge" 
+      width="180" 
+      style="margin: 0 10px;"
+    />
   </a>
-  <a href="https://github.com/Truefenix/ONE-conversor-moeda" target="_blank">
-    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" alt="Currency Converter Badge" width="180" />
+  <a href="https://github.com/Truefenix/ONE-conversor-moeda" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" 
+      alt="Currency Converter Badge" 
+      width="180" 
+      style="margin: 0 10px;"
+    />
   </a>
 </div>
+
 
 ---
 
