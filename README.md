@@ -1,26 +1,19 @@
-<p align="center">
-  <a href="https://github.com/Truefenix" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" 
-      alt="Truefenix Banner"
-      style="width: 100%; max-width: 900px; object-fit: cover; object-position: center;"
-    />
-  </a>
-</p>
+# 👋 Hi, I'm Truefenix — Full Stack JavaScript Developer
+I'm a passionate developer focused on building scalable, user-friendly web applications using JavaScript and TypeScript. I enjoy working with technologies like React, Next.js, Node.js, and databases such as MongoDB and MySQL.
 
-
-<h2 align="center">Hello! 👋 I'm Truefenix</h2>
-
-<p align="center">
-  Fullstack developer focused on the JavaScript/TypeScript stack.<br/>
-  I enjoy building modern, scalable, and secure solutions using technologies like React, Next.js, and Node.js.
-</p>
+📫 Open to job opportunities and collaborations
 
 ---
+### 🧠 Main Stack
+- React • Next.js • TypeScript • JavaScript • Node.js • Express
 
-### 🚀 Main Stack
+### 🗄️ Database
+- MongoDB • MySQL • Sequelize • Mongoose
 
-<div align="center">
+### ⚙️ Tools & DevOps
+- Git • GitHub • VSCode • Linux • Webpack • Babel
+### Image
+<div stile="width: 50px">
   <img height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
