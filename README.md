@@ -1,43 +1,58 @@
 <p align="center">
-  <a href="https://github.com/Truefenix/Truefenix/blob/main/.github/workflows/assets/bannerTruefenix.png" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Truefenix">
     <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/bannerTruefenix.png" 
-         alt="my banner" 
-         style="width: 100%; object-fit: cover; object-position: center;">
+         alt="Truefenix Banner"
+         style="width: 100%; max-width: 900px; object-fit: cover; object-position: center;">
   </a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Truefenix">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Truefenix&show_icons=true&theme=highcontrast"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Truefenix&layout=compact&theme=highcontrast"/>
-</div>
-  
-</div>
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Truefenix&theme=highcontrast">
- </div>
- 
- <h2> 💼 Habilidades Técnicas  </h2>
- <div style="display: inline_block">
- <br>
-  <img height="70em" align="center" alt="Truefenix-HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img height="70em" align="center" alt="Truefenix-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img height="60em" align="center" alt="Truefenix-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="70em" align="center" alt="Truefenix-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img height="70em" align="center" alt="Truefenix-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img height="70em" align="center" alt="Truefenix-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img height="70em" align="center" alt="Truefenix-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img height="70em" align="center" alt="Truefenix-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-</div>
+<h2 align="center">Hello! 👋 I'm Truefenix</h2>
 
-<br>
- <h2>🏆 GitHub Trophies</h2>
- <a><img width=800 src="https://github-profile-trophy.vercel.app/?username=Truefenix&column=8&theme=dark_lover&no-frame=true"/></a>
-<h2>🛡️ Badges</h2>
+<p align="center">
+  Fullstack developer focused on the JavaScript/TypeScript stack.<br/>
+  I enjoy building modern, scalable, and secure solutions using technologies like React, Next.js, and Node.js.
+</p>
+
+---
+
+### 🚀 Main Stack
 
 <div align="center">
-    <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/Badge-Codificador-Alura.png" alt="Badge-Codificador" width="20%" />
-    </a>
-    <a href="https://github.com/Truefenix/ONE-conversor-moeda" target="_blank"><img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" alt="Badge-Codificador" width="20%" />
-    </a>
+  <img height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Truefenix&show_icons=true&theme=highcontrast" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Truefenix&layout=compact&theme=highcontrast" />
+</div>
+
+---
+
+### 🏅 Badges & Certifications
+
+<div align="center">
+  <a href="https://github.com/Truefenix/ONE-Challenge01_Codificador" target="_blank">
+    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/Badge-Codificador-Alura.png" alt="Alura Codificador Badge" width="180" />
+  </a>
+  <a href="https://github.com/Truefenix/ONE-conversor-moeda" target="_blank">
+    <img src="https://raw.githubusercontent.com/Truefenix/Truefenix/main/.github/workflows/assets/cms_files_10224_1671211937Prancheta_8.png" alt="Currency Converter Badge" width="180" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! Let's build something amazing together 🚀
+</p>
