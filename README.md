@@ -36,12 +36,14 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
 - [blog-next (Front-End)](https://github.com/Truefenix/blog-next)  
   A blog front-end built with Next.js and styled-components. Utilizes Static Site Generation (SSG) for performance optimization and SEO-friendly pages.
 
-#### Pomodoro React App
+#### React
 
 - [pomodoro-react](https://github.com/Truefenix/pomodoro-react)  
   A productivity timer built with React, inspired by the Pomodoro Technique. Helps manage focus and break intervals during work or study sessions.
+- [film-react](https://github.com/Truefenix/film-react)  
+  film-react is a web application built with React 19, Vite, and Tailwind CSS. It allows users to search and discover movies using the TMDB (The Movie Database) API..
 
-#### Sua Agenda app
+#### M.E.R.N
 
 - [projetoagenda](https://github.com/Truefenix/projetoagenda)  
   A simple contact manager application with user authentication. Allows users to register, log in, and manage a contact list with names, phone numbers, and email addresses.
