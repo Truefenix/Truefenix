@@ -51,6 +51,7 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
 ---
 <details closed>
 <Summary>About me👈</Summary>
+  
 ### 📊 GitHub Stats
 
 <div align="center">
