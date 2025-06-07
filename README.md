@@ -49,7 +49,8 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
   A simple contact manager application with user authentication. Allows users to register, log in, and manage a contact list with names, phone numbers, and email addresses.
 
 ---
-
+<details closed>
+<Summary>About me👈</Summary>
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -79,10 +80,9 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
     />
   </a>
 </div>
-
-
 ---
 
 <p align="center">
   Thanks for visiting my profile! Let's build something amazing together 🚀
 </p>
+</details>
