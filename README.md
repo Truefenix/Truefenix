@@ -28,6 +28,9 @@ I'm a passionate developer focused on building scalable, user-friendly web appli
 
 ### 🚀 Featured Projects
 
+### ⭐ Project Stars
+- [store-app (Em Andamento)](https://github.com/Truefenix/store-app)  
+
 #### Blog Platform
 
 - [blog-strapi (Back-End)](https://github.com/Truefenix/blog-strapi)  
